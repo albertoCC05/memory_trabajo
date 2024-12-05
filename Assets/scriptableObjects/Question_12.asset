@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c6c1943e82f16645be95dfcb340f96b, type: 3}
+  m_Name: Question_12
+  m_EditorClassIdentifier: 
+  question: "En la disposici\xF3n m\xE1s generalizada en los mandos de una motocicleta,
+    el acelerador se acciona con..."
+  wrongAnswer1: ' el pie derecho.'
+  wrongAnswer2: A la mano izquierda.
+  correctAnswer: ' la mano derecha.'
+  questionImage: {fileID: 21300000, guid: 42dd5a3e81cc049438e06e9d4220138c, type: 3}

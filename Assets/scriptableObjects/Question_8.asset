@@ -10,11 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7c6c1943e82f16645be95dfcb340f96b, type: 3}
-  m_Name: Question_3
+  m_Name: Question_8
   m_EditorClassIdentifier: 
-  question: "\xBFQu\xE9 tipo de da\xF1os, en general, cubre el seguro de responsabilidad
-    civil de suscripci\xF3n obligatoria? "
-  wrongAnswer1: "solo los da\xF1os materiales"
-  wrongAnswer2: "solo los da\xF1os personales"
-  correctAnswer: "cubre los da\xF1os materiales y personales"
+  question: "Cuando el titular de un permiso de conducir pierda parte de su asignaci\xF3n
+    total de puntos, \xBFpuede recuperarlos?"
+  wrongAnswer1: No, una vez perdidos no es posible recuperarlos.
+  wrongAnswer2: "S\xED, obteniendo de nuevo el permiso de conducci\xF3n"
+  correctAnswer: "S\xED, realizando un curso de sensibilizaci\xF3n y reeducaci\xF3n
+    vial."
   questionImage: {fileID: 7482667652216324306, guid: 5b99771f542e92f4dabe89229e5b1d6e, type: 3}
